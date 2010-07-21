@@ -3,10 +3,10 @@ Contributors: inZania LLC
 Donate link: http://inZania.com/
 Tags: itunes, favorites, favourites, itunes favourites, itunes favorites, songs, apps, iphone, ipod, ipad, app, music, monetize, earn
 Requires at least: 2.0
-Tested up to: 2.9.2
-Stable tag: 1.0.0
+Tested up to: 3.0.0
+Stable tag: 1.0.1
 
-Let the world know what music and iPhone/iPad/iPod apps you like.  Link directly to your favorite songs/apps in iTunes with a widget & an editor extension (so you can insert items directly in your blog, or show your favorites in a sidebar).  Even monetize your blog by providing your affiliate ID.
+Let the world know what music and iPhone/iPad/iPod apps you like using a widget + editor plugin.
 
 == Description ==
 
@@ -49,5 +49,5 @@ Please see the settings section of the plugin.
 
 == Version history ==
 
-* Version 1.0 was the initial release.
-
+* Version 1.0.1 fixed a readme bug
+* Version 1.0.0 was the initial release.
